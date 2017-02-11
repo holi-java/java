@@ -2,4 +2,4 @@ rootProject.name = 'java'
 include 'test'
 include 'bsh'
 include 'jdk8'
-
+include 'jdk7'
